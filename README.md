@@ -1,2 +1,3 @@
-# learning-python
-Learning different features in python
+# Python
+
+> Learning different features in Python 3
