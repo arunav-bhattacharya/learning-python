@@ -8,7 +8,7 @@
 ## Part I - Basics
 
 ### 1. Getting started
-- Variables
+- Variables, data types
 - Built-in String functions
 - Arithmetic operations
 
@@ -21,6 +21,8 @@
 - Reversing elements in a list
 - Finding the length of a list
 - Iterating through a list
+- Slicing a list
+- Tuples
 
 ### 3. Conditionals
 
