@@ -21,3 +21,6 @@ for car in cars:
 if "tesla" in cars:
     print(cars.index("tesla"))
 
+if "hyundai" in cars:
+    print(cars.index("hyundai"))
+
